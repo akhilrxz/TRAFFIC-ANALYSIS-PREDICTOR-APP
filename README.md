@@ -128,4 +128,4 @@ Acknowledgments
 Libraries: Thanks to pandas, matplotlib, seaborn, scikit-learn, statsmodels, and plotly for enabling robust data analysis and visualization.
 References: Inspired by works like Pedregosa et al. (Scikit-learn) and Hunter (Matplotlib).
 
-For issues or questions, please open an issue on GitHub or contact [your-email@example.com].
+
